@@ -6,7 +6,7 @@
  */
 public class LeetCode617 {
 
-    public class TreeNode {
+    class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
